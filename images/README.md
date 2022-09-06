@@ -1,1 +1,1 @@
-![afbeedling] (Github-Mark-64x.png)
+![afbeedling](GitHub-Mark-64px.png)
